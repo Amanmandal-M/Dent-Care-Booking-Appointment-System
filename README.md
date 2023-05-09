@@ -13,8 +13,8 @@
 
 ## Deployed Link :
 
-   - Frontend: ""
-   - Backend: ""
+   - Frontend: https://dentcare24x7.netlify.app/
+   - Backend: 
 
 
 <br>
