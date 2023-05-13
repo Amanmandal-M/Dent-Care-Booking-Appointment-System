@@ -2,7 +2,9 @@
 
 <br>
 
-<img style="display:block; margin:auto; " src="https://dent-cares.netlify.app/images/logo.png" width="200px" alt="Error 404">
+<p align="center">
+<img style="display:block; margin:auto; " src="https://dent-cares.netlify.app/images/logo.png" width="230px" alt="Error 404">
+</p>
 
 <br>
 
@@ -19,8 +21,8 @@
 
 ## Deployed Link :
 
-   - Frontend: https://dentcare24x7.netlify.app/
-   - Backend: https://dent-care-backend-aa29.onrender.com
+   - Frontend: <a href="https://dentcare24x7.netlify.app/">Netlify</a>
+   - Backend: <a href="https://dent-care-backend-aa29.onrender.com">Render</a>
 
 
 <br>
@@ -113,6 +115,13 @@
 
 <br>
 
+
+
+<h1>Schema Design</h1>
+<img src="https://github.com/aniketbabariya24/tough-health-8180/assets/112626195/48fdf084-ed10-4153-82ff-e0aca749bf6f" alt="">
+
+<br>
+
 # API EndPoints :
 
 <h3>
@@ -121,6 +130,34 @@
     </strong>
 </h3>
 
+<br>
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/aniketbabariya24/tough-health-8180.git
+```
+
+Go to the project directory
+
+```bash
+  cd Backend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+------------
 <br>
 
 <h2>HomePage</h2>
