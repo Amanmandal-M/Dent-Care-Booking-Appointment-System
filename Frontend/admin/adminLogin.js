@@ -1,6 +1,6 @@
 // ------------------- API's ----------------------
 
-const BaseUrl = 'http://localhost:8080';
+const BaseUrl = 'https://dent-care-backend-mzud.onrender.com';
 const Default = `${BaseUrl}/admin`
 const PostDataCheck = `${Default}/login`
 
