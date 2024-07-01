@@ -102,11 +102,12 @@
      - date
      - time
 
-
 - appointments 
-    - stylerid
     - userID
+    - dentistId
+    - patientId
     - serviceId
+    - slotId    
     - date,
     - time,
     - service_name,
