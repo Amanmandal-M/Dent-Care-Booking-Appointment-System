@@ -1,6 +1,6 @@
 // ------------------- API's ----------------------
 
-const BaseUrl = "https://dent-care-backend-aa29.onrender.com";
+const BaseUrl = "https://dent-care-backend-mzud.onrender.com";
 const Default = `${BaseUrl}/users`;
 const RegisterPostData = `${Default}/register`;
 const LoginPostData = `${Default}/login`;

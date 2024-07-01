@@ -1,6 +1,6 @@
 // ------------------- API's ----------------------
 
-const BaseUrl = "https://dent-care-backend-aa29.onrender.com";
+const BaseUrl = "https://dent-care-backend-mzud.onrender.com";
 const Default = `${BaseUrl}/appointments`;
 const AppointmenPostData = `${Default}/add`;
 
@@ -10,8 +10,8 @@ let doctor = JSON.parse(localStorage.getItem("selectedDoctor"));
 let service = JSON.parse(localStorage.getItem("selectedService"));
 
 const form = document.getElementById("booking_form");
-form.doctorName.value = doctor.name;
-form.service.value = service.name;
+// form.doctorName.value = doctor.name;
+// form.service.value = service.name;
 
 const logout_btn = document.getElementById("logout_btn");
 if (data.name) {
@@ -158,8 +158,8 @@ async function postData(el) {
 
 // congratulation js
 
-$(window).on("load", function () {
-    setTimeout(function () {
-        $(".done").addClass("drawn");
-    }, 1000);
-});
+// $(window).on("load", function () {
+//     setTimeout(function () {
+//         $(".done").addClass("drawn");
+//     }, 1000);
+// });
