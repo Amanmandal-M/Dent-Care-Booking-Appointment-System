@@ -43,7 +43,7 @@ const options = {
 		},
 		servers: [
 			{
-				url: "https://dent-care-backend-aa29.onrender.com",
+				url: "https://dent-care-backend-mzud.onrender.com",
 			},
 		],
 	},
