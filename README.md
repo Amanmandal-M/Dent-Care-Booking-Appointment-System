@@ -127,7 +127,7 @@
 
 <h3>
     <strong>
-      <a href="https://dent-care-backend-aa29.onrender.com/api-docs" target="_blank">Swagger Docs for Api</a>
+      <a href="https://dent-care-backend-mzud.onrender.com/api-docs" target="_blank">Swagger Docs for Api</a>
     </strong>
 </h3>
 
